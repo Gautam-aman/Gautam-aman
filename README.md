@@ -20,7 +20,7 @@ As I explored software engineering further, I became fascinated by backend syste
 
 * 👑 Knight @ LeetCode (2100+ Rating)
 * 💙 Specialist @ Codeforces
-* 📈 900+ Problems Solved
+* 📈 2000+ Problems Solved
 * 🎯 Regular Contest Participant
 * 🧠 Strong foundation in DSA, Graphs, DP, Trees, and System Design
 
@@ -109,22 +109,3 @@ I'm always excited to connect with people interested in:
 Feel free to reach out if you'd like to collaborate, discuss ideas, or build something interesting together.
 
 ### "Consistency compounds. Keep building."
-
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Gautam-aman&show_icons=true)
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com?user=Gautam-aman)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Gautam-aman)
-
-## 🌐 Connect With Me
-
-- Portfolio: https://buildwithaman.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/amangautam21/
-- LeetCode: leetcode.com/u/gautam-aman
