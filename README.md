@@ -10,7 +10,7 @@ I enjoy building scalable applications, contributing to real-world software, and
 
 My journey into software development started with **Data Structures & Algorithms**, where I spent countless hours learning problem-solving and competitive programming.
 
-Over time, I solved **900+ DSA problems**, achieved **Knight on LeetCode (2100+ rating)** and **Specialist on Codeforces**, which helped me build strong fundamentals in algorithms and system thinking.
+Over time, I solved **2000+ DSA problems**, achieved **Knight on LeetCode (2100+ rating)** and **Specialist on Codeforces**, which helped me build strong fundamentals in algorithms and system thinking.
 
 As I explored software engineering further, I became fascinated by backend systems, distributed architectures, and cloud-native technologies. This eventually led me to open source, where I started contributing to production-grade projects and collaborating with developers worldwide.
 
