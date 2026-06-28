@@ -30,7 +30,7 @@ I've also built a bunch of projects along the way:
 
 Currently, I'm deep-diving into distributed systems, cloud-native technologies, backend performance optimization, and large-scale software architecture.
 
-I also share what I learn through technical articles on **Medium** and enjoy documenting my journey in public.
+I enjoy building scalable systems, contributing to open source, and occasionally writing about what I learn on [Medium](https://medium.com/@amangautam2128).
 
 Outside of code, you'll probably find me exploring new ideas, contributing to open source, participating in hackathons, or preparing for the next contest.
 
