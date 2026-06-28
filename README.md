@@ -4,7 +4,7 @@ I'm **Aman Gautam**, a Computer Science student passionate about backend enginee
 
 My journey started with DSA and competitive programming, where I spent countless hours solving problems, participating in contests, and strengthening my fundamentals. Along the way, I solved **2000+ problems**, became a **Knight on LeetCode (2100+)**, and a **Specialist on Codeforces**.
 
-Eventually, I discovered open source—and that's where things got interesting.
+Eventually, I discovered open source and that's where things got interesting.
 
 Since then, I've contributed to projects used by developers worldwide, collaborated with maintainers across different communities, and learned how production software is actually built.
 
@@ -36,12 +36,5 @@ Outside of code, you'll probably find me exploring new ideas, contributing to op
 
 **"Consistency compounds. Keep building."**
 
-### Find Me Around The Internet
-
-* LinkedIn
-* Medium
-* LeetCode
-* Codeforces
-* GitHub
 
 Always happy to connect, collaborate, or talk about interesting tech.
