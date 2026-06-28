@@ -1,111 +1,47 @@
 # Hey there 👋
 
-I'm **Aman Gautam**, a Computer Science undergraduate passionate about **Backend Engineering, Distributed Systems, Open Source, and Competitive Programming**.
+I'm **Aman Gautam**, a Computer Science student passionate about backend engineering, distributed systems, open source, and competitive programming.
 
-I enjoy building scalable applications, contributing to real-world software, and continuously improving my problem-solving skills.
+My journey started with DSA and competitive programming, where I spent countless hours solving problems, participating in contests, and strengthening my fundamentals. Along the way, I solved **2000+ problems**, became a **Knight on LeetCode (2100+)**, and a **Specialist on Codeforces**.
 
----
+Eventually, I discovered open source—and that's where things got interesting.
 
-## 🚀 My Journey So Far
+Since then, I've contributed to projects used by developers worldwide, collaborated with maintainers across different communities, and learned how production software is actually built.
 
-My journey into software development started with **Data Structures & Algorithms**, where I spent countless hours learning problem-solving and competitive programming.
+Some organizations and projects I've contributed to:
 
-Over time, I solved **2000+ DSA problems**, achieved **Knight on LeetCode (2100+ rating)** and **Specialist on Codeforces**, which helped me build strong fundamentals in algorithms and system thinking.
+* OpenRewrite
+* Apache RocketMQ
+* Spring Kafka
+* SpotBugs
+* Security Shepherd
+* cBioPortal
+* OpenSearch
 
-As I explored software engineering further, I became fascinated by backend systems, distributed architectures, and cloud-native technologies. This eventually led me to open source, where I started contributing to production-grade projects and collaborating with developers worldwide.
+The list keeps growing—and so does the learning.
 
----
+I've also built a bunch of projects along the way:
 
-## 🏆 Competitive Programming
+* NyayaSetu — AI-powered legal search engine
+* TinyTrail — URL shortening platform
+* AI Email Assistant
+* BookMyShow Backend
+* Smart-Sagar (Hackathon Winner)
 
-* 👑 Knight @ LeetCode (2100+ Rating)
-* 💙 Specialist @ Codeforces
-* 📈 2000+ Problems Solved
-* 🎯 Regular Contest Participant
-* 🧠 Strong foundation in DSA, Graphs, DP, Trees, and System Design
+Currently, I'm deep-diving into distributed systems, cloud-native technologies, backend performance optimization, and large-scale software architecture.
 
----
+I also share what I learn through technical articles on **Medium** and enjoy documenting my journey in public.
 
-## 🌟 Open Source Contributions
+Outside of code, you'll probably find me exploring new ideas, contributing to open source, participating in hackathons, or preparing for the next contest.
 
-I've contributed to multiple open-source projects across backend systems, developer tooling, and cloud technologies.
+**"Consistency compounds. Keep building."**
 
-### Featured Contributions
+### Find Me Around The Internet
 
-* 🚀 OpenRewrite — Merged PR #885
-* 🚀 Apache RocketMQ — Merged PR #9982
-* 🚀 Spring Kafka — Bug fixes & testing improvements
-* 🚀 SpotBugs — Static analysis improvements
-* 🚀 Security Shepherd — Authentication & timezone fixes
-* 🚀 cBioPortal — Metadata mapping enhancements
-* 🚀 OpenSearch — Community contributions
+* LinkedIn
+* Medium
+* LeetCode
+* Codeforces
+* GitHub
 
-The list keeps growing as I continue exploring and contributing to impactful projects.
-
----
-
-## 🛠️ Things I've Built
-
-### ⚖️ NyayaSetu
-
-AI-powered legal search engine for Indian court judgments using semantic search, embeddings, Elasticsearch, vector databases, and LLMs.
-
-### 🤖 AI Email Assistant
-
-AI-powered email reply generator built with Spring Boot, React, and Chrome Extension integration.
-
-### 🔗 TinyTrail
-
-Modern URL shortening platform with JWT authentication, analytics, and responsive UI.
-
-### 🎟️ BookMyShow Backend
-
-Scalable movie ticket booking backend implementing real-world booking workflows and seat management.
-
-### 🌊 Smart-Sagar
-
-Hackathon-winning project focused on solving environmental challenges through technology.
-
-### ☁️ Distributed AI Incident Management Platform
-
-Microservices-based platform featuring event processing, observability, containerization, and AI-powered incident analysis.
-
----
-
-## 🥇 Achievements
-
-* 🏆 Winner — TechFest Hackathon 2026
-* 👑 Knight @ LeetCode
-* 💙 Specialist @ Codeforces
-* 🌟 Active Open Source Contributor
-* 💻 900+ DSA Problems Solved
-
----
-
-## 📚 Currently Learning
-
-Currently focused on:
-
-* Distributed Systems
-* System Design
-* Cloud Native Technologies
-* Kubernetes
-* Backend Performance Optimization
-* Open Source Development
-* Scalable Java Applications
-
----
-
-## 🤝 Let's Connect
-
-I'm always excited to connect with people interested in:
-
-* Backend Engineering
-* Distributed Systems
-* Open Source
-* Competitive Programming
-* Startups & Product Development
-
-Feel free to reach out if you'd like to collaborate, discuss ideas, or build something interesting together.
-
-### "Consistency compounds. Keep building."
+Always happy to connect, collaborate, or talk about interesting tech.
