@@ -1,4 +1,4 @@
-# Hey there 👋
+Hey there 👋
 
 I'm **Aman Gautam**, a Computer Science student passionate about backend engineering, distributed systems, open source, and competitive programming.
 
