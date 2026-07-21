@@ -21,11 +21,10 @@ Some organizations and projects I've contributed to:
 The list keeps growing—and so does the learning.
 
 I've also built a bunch of projects along the way:
-
+* Real-Time-Collaborative-Sync-Engine
+* DistributedDB
 * NyayaSetu — AI-powered legal search engine
 * TinyTrail — URL shortening platform
-* AI Email Assistant
-* BookMyShow Backend
 * Smart-Sagar (Hackathon Winner)
 
 Currently, I'm deep-diving into distributed systems, cloud-native technologies, backend performance optimization, and large-scale software architecture.
