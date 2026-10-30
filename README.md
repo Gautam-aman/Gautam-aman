@@ -1,40 +1,17 @@
-Hey there 👋
+# Aman Gautam
 
-I'm **Aman Gautam**, a Computer Science student passionate about backend engineering, distributed systems, open source, and competitive programming.
+**Software Engineer | Backend Systems · Distributed Systems · Developer Tools**
 
-My journey started with DSA and competitive programming, where I spent countless hours solving problems, participating in contests, and strengthening my fundamentals. Along the way, I solved **2000+ problems**, became a **Knight on LeetCode (2100+)**, and a **Specialist on Codeforces**.
+I build backend systems, developer tools, and open-source software. I'm a final-year Computer Science student with experience in GPU-accelerated engineering tools and AI-assisted development.
 
-Eventually, I discovered open source and that's where things got interesting.
+### Selected Projects
+- **[CODOVYN](https://github.com/Gautam-aman/CODOVYN)** — Open-source multi-agent coding IDE with adaptive model routing and task orchestration.
+- **[ResQNet](https://github.com/Gautam-aman/ResQNet)** — Internet-independent emergency mesh networking platform.
+- **[Real-Time Collaborative Sync Engine](https://github.com/Gautam-aman/Real-Time-Collaborative-Sync-Engine)** — Real-time collaboration and synchronization backend.
 
-Since then, I've contributed to projects used by developers worldwide, collaborated with maintainers across different communities, and learned how production software is actually built.
+### Experience & Open Source
+- **DragonX Systems** — GPU-accelerated EDA optimization and AI-assisted hardware design.
+- Contributed to **OpenRewrite, Apache RocketMQ, Spring Kafka, SpotBugs**, and other open-source projects.
+- **Competitive programming:** 2,000+ problems solved · LeetCode Knight · Codeforces Specialist.
 
-Some organizations and projects I've contributed to:
-Checkout : https://open-source-portfolio-ten.vercel.app/
-
-* OpenRewrite
-* Apache RocketMQ
-* Spring Kafka
-* SpotBugs
-* Security Shepherd
-* cBioPortal
-* OpenSearch
-
-The list keeps growing—and so does the learning.
-
-I've also built a bunch of projects along the way:
-* Real-Time-Collaborative-Sync-Engine
-* DistributedDB
-* NyayaSetu — AI-powered legal search engine
-* TinyTrail — URL shortening platform
-* Smart-Sagar (Hackathon Winner)
-
-Currently, I'm deep-diving into distributed systems, cloud-native technologies, backend performance optimization, and large-scale software architecture.
-
-I enjoy building scalable systems, contributing to open source, and occasionally writing about what I learn on [Medium](https://medium.com/@amangautam2128).
-
-Outside of code, you'll probably find me exploring new ideas, contributing to open source, participating in hackathons, or preparing for the next contest.
-
-**"Consistency compounds. Keep building."**
-
-
-Always happy to connect, collaborate, or talk about interesting tech.
+**[Portfolio](https://amangautam.dev) · [Open-Source Work](https://open-source-portfolio-ten.vercel.app/) · [Writing](https://medium.com/@amangautam2128)**
