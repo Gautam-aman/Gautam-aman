@@ -16,5 +16,4 @@ I build backend systems, developer tools, and open-source software. I'm a final-
 
 **[Portfolio](https://amangautam.dev) · [Open-Source Work](https://open-source-portfolio-ten.vercel.app/) · [Writing](https://medium.com/@amangautam2128)**
 
-### Open Source Contributions
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
